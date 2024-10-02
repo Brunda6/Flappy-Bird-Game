@@ -23,12 +23,10 @@ This project is a clone of the popular game "Flappy Bird". The goal is to keep t
 ## Installation
 
 1. Clone the repository:
+[   git clone https://github.com/brunda/Flappy-Bird-Game.git](https://github.com/Brunda6/Flappy-Bird-Game/tree/main)
 
-   ```bash
-   git clone https://github.com/yourusername/Flappy-Bird-Game.git
-
-2. Open the project folder:
-    ``
+2. Open the project folder: `cd Flappy-Bird-Game`
+   
 3. Open the `index.html` file in your browser to start playing.
 
 ## Technologies Used
