@@ -31,6 +31,6 @@ This project is a clone of the popular game "Flappy Bird". The goal is to keep t
 
 ## Technologies Used
 
-  - HTML5: The structure of the game.
-  - CSS3: Styling and animations.
-  - JavaScript: Game logic, including bird movement, collision detection, and scoring.
+  - HTML : The structure of the game.
+  - CSS : Styling and animations.
+  - JavaScript : Game logic, including bird movement, collision detection, and scoring.
